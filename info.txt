@@ -1,9 +1,9 @@
 
 
 
-https://github.com/1xo2/Cart-1-hot-start-json/blob/main/top-sellers.json
+https://raw.githubusercontent.com/1xo2/Cart-1-hot-start-json/refs/heads/main/top-sellers.json
 
-https://github.com/1xo2/Cart-1-hot-start-json/blob/main/prods.json
+https://raw.githubusercontent.com/1xo2/Cart-1-hot-start-json/refs/heads/main/prods.json
 
-https://github.com/1xo2/Cart-1-hot-start-json/blob/main/categories.json
+https://raw.githubusercontent.com/1xo2/Cart-1-hot-start-json/refs/heads/main/categories.json
 
